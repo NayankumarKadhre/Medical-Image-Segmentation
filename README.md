@@ -6,7 +6,7 @@ Streamlit, NumPy, cv2 (OpenCV), Pillow, PyCharm
 
 # How to run 
 1. Download the app.py and add it in a folder 
-2. Open command propmt in that folder
+2. Open command prompt in that folder
 3. run pip install streamlit in the command prompt
 4. run streamlit run app.py (The app will be opened in the browser)
 5. Use any Medical Image Dataset to test the app (I used the Sample NIH Chest X-ray Dataset - Keggle: https://www.kaggle.com/datasets/nih-chest-xrays/sample, Full dataset - Kaggle: https://www.kaggle.com/datasets/nih-chest-xrays/data)
